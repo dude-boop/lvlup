@@ -55,4 +55,15 @@ print(str_hw_with_b_simbol, "my name is canser")
 str_hw = "HELLO MY NAME IS CANSER"
 str_hw = str_hw.lower()
 print(str_hw)
+print(str_hw.lstrip("hello"))  # .lstrip нифига не понял
+x = str_hw.maketrans("h", "g") # .lstrip нифига не понял
+print(str_hw.translate(x))     # .lstrip нифига не понял
+str_hw_partition  = str_hw.partition("name")  # return the tuple
+print(str_hw_partition)
+str_hw_replace = str_hw.replace("hello", "good buy", 1)
+print(str_hw_replace)
+str_hw_rfind = str_hw.rfind("is")
+print(str_hw_rfind)
+
+
 
