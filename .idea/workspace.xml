@@ -140,11 +140,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.boolean" />
       <item itemvalue="Python.210105_if" />
+      <item itemvalue="Python.boolean" />
       <item itemvalue="Python.hw_5_10_questions" />
       <item itemvalue="Python.hw_5_task_10" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
