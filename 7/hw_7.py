@@ -34,7 +34,12 @@ print(list_hw_7_for_sort)
 task 2
     Реализовать копирование списков через “spred” оператор, и конструктор list() проверить id
 """
-list_hw_7_for_spred_copy = ["a","an","the"]
+some_list = [4,6,8,63,345,25,235,]
+another_list = [*some_list]
+print(id(another_list))
+print(id(some_list))
+print(id(some_list[2]))
+print(id(another_list[2]))
 
 """
 task 3
