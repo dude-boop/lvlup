@@ -1,4 +1,4 @@
-2### the home work exercise: try all the string methods
+### the home work exercise: try all the string methods
 
 str_hw = "wdf ihb\tuufnn\tvj9876 0876"
 # print(dir(str_hw))
